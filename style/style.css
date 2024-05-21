@@ -1,0 +1,151 @@
+*{
+    text-decoration: none;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.conteiner{
+    max-width: 1125px;
+    margin: 0 auto;
+}
+.h1-text{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64.17px;
+    width: 545px;
+    margin-top: 71px;
+}
+.second-part-h1{
+    color: #EE4248;
+}
+.first-section-text{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.25px;
+    width: 520px;
+    font-family: "Work Sans", sans-serif;
+    margin-top: 31px;
+    margin-bottom: 52px;
+}
+.first-section-button{
+    width: 161px;
+    height: 53px;
+    background: #EE4248;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.94px;
+    color: #FFFFFF;
+    margin-bottom: 187px;
+}
+.first-section-wrap{
+    display: flex;
+    gap: 17px;
+}
+.red{
+    color: #EE4248;
+    font-weight: 500;
+}
+.second-section{
+    background: #F6F6F6;
+}
+.text{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+.second-section-text{
+    width: 520px;
+}
+.first{
+    margin: 35px 0; 
+}
+.second{
+    padding-bottom: 63px;
+}
+.h2-second-section{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42.78px;
+    margin-top: 57px;
+}
+.second-section-wrap{
+    display: flex;
+    gap: 80px;
+}
+.second-section-img{
+    margin-bottom: 40px;
+}
+.third-section-h2{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42.78px;
+    margin-top: 161px;
+    margin-bottom: 17px;
+    color: #1F2E35;
+}
+.card-h3{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 37.43px;
+    color: #EE4248;
+    margin: 15px 0;
+}
+.card-text{
+    width: 319px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #30444E;
+}
+.card-button{
+    width: 119px;
+    height: 42px;
+    background: #EE4248;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26.04px;
+    color: #FFFFFF;
+    margin-top: 15px;
+    margin-bottom: 110px;
+}
+.cards-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.first-part{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.09px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+.second-part{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26.85px;
+    color: #263238;
+    margin: 10px 0;
+}
+.h4-contact{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.13px;
+    margin: 16px 0;
+}
+.last-section-wrap{
+    display: flex;
+    gap: 47px;
+}
+.footer{
+    height: 64px;
+    background: #EE4248;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.09px;
+    text-align: center;
+    padding-top: 22px;
+}
